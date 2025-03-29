@@ -15,4 +15,5 @@
 ## Links
 
 [![GitHub Link](https://img.shields.io/badge/GitHub-Profile-black)](https://www.linkedin.com/in/mahammad-babayev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mahammad-babayev/) [![Mail](https://img.shields.io/badge/Mail-mahammad@babayev.us-white)](mailto:mahammad@babayev.us)
+
 ![mahammadbbyv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadbbyv&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
