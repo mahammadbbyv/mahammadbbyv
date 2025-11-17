@@ -13,4 +13,4 @@
 
 - **Tools:** Git, Docker, Visual Studio, Visual Studio Code.
 
-![mahammadbbyv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadbbyv&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
+![mahammadbbyv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadbbyv&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400)
