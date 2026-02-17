@@ -36,8 +36,5 @@ I'm a developer from Azerbaijan, moving to Berlin and focused on building fast, 
 
 ---
 
-## 📊 Languages I Use Most
-![mahammadbbyv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadbbyv&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400)
-
 Check out my website → **https://babayev.us/**  
 Or reach out on LinkedIn → **/in/mahammad-bbyv/**
