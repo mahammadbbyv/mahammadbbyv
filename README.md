@@ -37,4 +37,4 @@ I'm a developer from Azerbaijan, moving to Berlin and focused on building fast, 
 ---
 
 Check out my website → **https://babayev.us/**  
-Or reach out on LinkedIn → **/in/mahammad-bbyv/**
+Or reach out on LinkedIn → **https://linkedin.com/in/mahammad-bbyv/**
